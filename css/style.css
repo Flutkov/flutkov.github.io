@@ -89,7 +89,7 @@
 }
 
 .sites {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     width: 500px;
     height: 300px;
     margin: 25px;
@@ -99,7 +99,7 @@
 }
 .sites a{
     filter: grayscale(50%);
-	transition: all 0.3s linear;
+		transition: all 0.3s linear;
 }
 .sites a:hover{
     filter: none;
