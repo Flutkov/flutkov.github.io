@@ -95,23 +95,27 @@
     background: url('https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.europaplus.ru%2Fimages%2Fnews%2Fuu_1484140522.jpg&f=1') no-repeat center;
     background-size: cover;
 }
-.sites a{
+
+.sites a {
     filter: grayscale(50%);
-		transition: all 0.3s linear;
-}
-.sites a:hover{
-    filter: none;
-	-webkit-transform: scale(1.05);
-	-moz-transform: scale(1.05);
-	-o-transform: scale(1.1);
-}
-.sites1 a{
+    transition: all 0.3s linear;
     display: block;
     width: 100%;
     height: 100%;
-    background: url("../images/2018-03-01_21-18-56.png") no-repeat top center;
     background-size: cover;
 }
+
+.sites a:hover {
+    filter: none;
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.1);
+}
+
+.sites1 a {
+    background: url("../images/2018-03-01_21-18-56.png") no-repeat top center;
+}
+
 .wrap_content h2 {
     position: relative;
     display: flex;
