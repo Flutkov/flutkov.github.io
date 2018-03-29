@@ -118,7 +118,7 @@
 }
 .sites2 a {
     background: url("../images/2018-03-29_14-30-24.png") no-repeat top center;
-    background-size: cover;
+    background-size: contain;
 }
 
 
