@@ -89,11 +89,9 @@
 }
 
 .sites {
-    /*border: 1px solid black;*/
     width: 500px;
     height: 300px;
     margin: 25px;
-    /*overflow: hidden;*/
     background: url('https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.europaplus.ru%2Fimages%2Fnews%2Fuu_1484140522.jpg&f=1') no-repeat center;
     background-size: cover;
 }
