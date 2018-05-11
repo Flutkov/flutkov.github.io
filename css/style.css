@@ -86,14 +86,14 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    background-color: #F2EDF5;
 }
 
 .sites {
-    width: 500px;
-    height: 300px;
-    margin: 25px;
-    background: url('https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.europaplus.ru%2Fimages%2Fnews%2Fuu_1484140522.jpg&f=1') no-repeat center;
-    background-size: cover;
+    width: 360px;
+    height: 260px;
+    margin: 55px;
+    
 }
 
 .sites a {
@@ -141,7 +141,7 @@
 .wrap_footer {
     background-color: rgba(130, 6, 255, 0.5);
     height: 100%;
-    margin-top: 80px;
+    /* margin-top: 80px; */
 }
 
 
