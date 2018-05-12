@@ -92,12 +92,12 @@
 .sites {
     width: 360px;
     height: 260px;
-    margin: 55px;
+    margin: 45px;
     
 }
 
 .sites a {
-    filter: grayscale(50%);
+    filter: grayscale(80%);
     transition: all 0.3s linear;
     display: block;
     width: 100%;
@@ -107,9 +107,9 @@
 
 .sites a:hover {
     filter: none;
-    -webkit-transform: scale(1.05);
-    -moz-transform: scale(1.05);
-    -o-transform: scale(1.1);
+    -webkit-transform: scale(1.25);
+    -moz-transform: scale(1.25);
+    -o-transform: scale(1.2);
 }
 
 .sites1 a {
