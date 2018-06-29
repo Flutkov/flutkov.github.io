@@ -109,6 +109,7 @@
 
 .sites a:hover {
     filter: none;
+    transform: scale(1.06);
     -webkit-transform: scale(1.06);
     -moz-transform: scale(1.06);
     -o-transform: scale(1.06);
