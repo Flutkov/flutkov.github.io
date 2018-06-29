@@ -109,9 +109,9 @@
 
 .sites a:hover {
     filter: none;
-    -webkit-transform: scale(1);
-    -moz-transform: scale(1);
-    -o-transform: scale(1.2);
+    -webkit-transform: scale(1.06);
+    -moz-transform: scale(1.06);
+    -o-transform: scale(1.06);
 }
 
 .sites1 a {
